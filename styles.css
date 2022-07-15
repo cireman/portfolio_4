@@ -197,7 +197,7 @@ body {
 
 .services__container article div {
   background-color: var(--white);
-  background-image: url(./img/Ellipse\ 14.svg);
+  background-image: url(Ellipse\ 14.svg);
   background-size: contain;
   background-repeat: no-repeat;
   width: 229px;
@@ -349,7 +349,7 @@ body {
   height: 150px;
   border-radius: 5px;
   margin: 40px 0;
-  background-image: url(./img/Ellipse\ 14.svg);
+  background-image: url(Ellipse\ 14.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
